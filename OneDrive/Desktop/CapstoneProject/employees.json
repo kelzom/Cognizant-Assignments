@@ -1,0 +1,12 @@
+{
+    "101": {
+        "name": "Kelzang Wangmo",
+        "department": "HR",
+        "role": "Senior Manager",
+        "performance": {
+            "attendance": "95",
+            "projects_completed": "5",
+            "rating": "4"
+        }
+    }
+}
